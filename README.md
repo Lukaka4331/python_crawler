@@ -1,7 +1,6 @@
 # python_crawler
 python_爬蟲菜雞入門
 #
-My Awesome Book
 
 * 安裝selenium
 
